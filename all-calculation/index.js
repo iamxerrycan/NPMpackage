@@ -33,6 +33,10 @@ export const factorial = (n) => {
 
 // circle all calculation
 
+export const clog = () => console.log();
+
+export const  fn =()=>  function(){}
+
 export const ReverseString = (str) => {
   let revstr = "";
   for (let i = str.length - 1; i >= 0; i--) {
@@ -40,3 +44,14 @@ export const ReverseString = (str) => {
   }
   return revstr;
 };
+
+export const calculateEMI = (p, rate, year) => {
+  const monthlyInterestRate = rate / 12 / 100;
+  const numberOfPayments = year * 12;
+
+  const emi = (p * monthlyInterestRate) / (1 - Math.pow(1 + monthlyInterestRate, -numberOfPayments));
+
+  return emi.toFixed(2); // Round to 2 decimal places
+};
+
+console.log(calculateEMI(p, rate ,year));
