@@ -1,0 +1,31 @@
+{
+  "name": "react-npm-button",
+  "version": "1.0.4",
+  "description": "React Button",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamxerrycan/NPMpackage/react-npm-button"
+  },
+  "bugs": {
+    "url": "https://github.com/iamxerrycan/NPMpackage/react-npm-button/issues"
+  },
+  "contributors": [
+    {
+      "name": "Contributor Name",
+      "url": "https://www.linkedin.com/in/iamxerrycan/"
+    }
+    
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "button",
+    "react button"
+  ],
+  "author": "iamxerrycan",
+  "license": "ISC"
+}

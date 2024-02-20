@@ -6,16 +6,17 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamxerrycan/NPMpackage/all-calculation.git"
+    "url": "https://github.com/iamxerrycan/NPMpackage/tree/main/all-calculation"
   },
   "bugs": {
-    "url": "https://github.com/iamxerrycan/NPMpackage/all-calculation/issues"
+    "url": "https://github.com/iamxerrycan/NPMpackage/tree/main/all-calculation/issues"
   },
   "contributors": [
     {
       "name": "Contributor Name",
       "url": "https://www.linkedin.com/in/iamxerrycan/"
     }
+    
   ],
     
   "scripts": {
@@ -23,6 +24,6 @@
   },
   "author": "iamxerrycan",
   "license": "ISC",
-  "keywords": ["npm" , "package" ,"all-calculation" , "allcalculation", "calculation", "arithmetic" , "statistics" , "mathematics", "utility", "developer tools", "node", "library", "javascript", "math functions"]
+  "keywords": ["npm" ,"iamxerrycan", "package" ,"all-calculation" , "allcalculation", "calculation", "arithmetic" , "statistics" , "mathematics", "utility", "developer tools", "node", "library", "javascript", "math functions"]
   
 }
