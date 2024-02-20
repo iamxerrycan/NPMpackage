@@ -3,6 +3,11 @@
   "version": "1.0.7",
   "description": "\"npm package\"",
   "main": "index.js",
+  "files": [
+    "images",
+    "package.json",
+    "README.md"
+  ],
   "type": "module",
   "repository": {
     "type": "git",
