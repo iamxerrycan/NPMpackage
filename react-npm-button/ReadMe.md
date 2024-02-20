@@ -13,6 +13,8 @@ A versatile and customizable React button component for your web applications.
 
 ## Author
 
+![Sample Image](./images/sample.png)
+
 [@iamxerrycan](https://github.com/iamxerrycan)
 
 ## Description

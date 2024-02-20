@@ -4,6 +4,12 @@
   "description": "React Button",
   "main": "index.js",
   "type": "module",
+  "files": [
+    "images",
+    "package.json",
+    "README.md",
+    "component"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/iamxerrycan/NPMpackage/react-npm-button"

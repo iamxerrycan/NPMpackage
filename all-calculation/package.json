@@ -1,6 +1,6 @@
 {
   "name": "all-calculation",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "\"npm package\"",
   "main": "index.js",
   "files": [
