@@ -16,7 +16,7 @@ A simple npm package for various calculations.
 
 ## Auther 
 
-![Sample Image](./images/sample.jpg)
+![Sample Image](./sample.png)
 
 
 [@iamxerrycan](https://github.com/iamxerrycan)
