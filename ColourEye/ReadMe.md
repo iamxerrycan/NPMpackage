@@ -1,5 +1,6 @@
 # ColourEye
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/ColourEye.svg)](https://badge.fury.io/js/ColourEye)
 
 ## GitHub Repository
 
@@ -7,7 +8,7 @@
 
 ## Author
 
-![Sample Image](./component/sample.png)
+<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/ColourEye/component/sample.png" alt="Sample Image" width="300" height="200">
 
 [@iamxerrycan](https://github.com/iamxerrycan)
 
@@ -35,7 +36,7 @@ height: The height of the eye icon (default: 24px).
 
 ## Example 
 
-<ColourEye color="blue" width={40} height={40} />;
+ its a component ColourEye color="blue" width={40} height={40} 
 
 # Second
 
@@ -46,4 +47,4 @@ height: The height of the eye icon (default: 24px).
 
 # Example 
 
-<ColourEyeOff color="red" width={40} height={40} />;
+its a component ColourEyeOff color="red" width={40} height={40} 

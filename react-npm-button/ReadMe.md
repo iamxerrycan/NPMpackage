@@ -13,7 +13,7 @@ A versatile and customizable React button component for your web applications.
 
 ## Author
 
-![Sample Image](./images/sample.png)
+![Sample Image](https://github.com/iamxerrycan/NPMpackage/blob/main/ColourEye/component/sample.png)
 
 [@iamxerrycan](https://github.com/iamxerrycan)
 
