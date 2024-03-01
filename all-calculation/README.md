@@ -15,10 +15,8 @@ A simple npm package for various calculations.
 
 
 ## Auther 
-<!-- ![Sample Image](https://github.com/iamxerrycan/NPMpackage/blob/main/all-calculation/sample.png) -->
-<img src="./images/sample.png" alt="Sample Image" width="300" height="200">
 
-
+<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/ColourEye/sample.jpg" alt="Sample Image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
 
 [@iamxerrycan](https://github.com/iamxerrycan)
 
@@ -37,7 +35,5 @@ console.log(calculateEMI(p, rate ,year));
 ## Installation
 
 To install the package, run the following command:
-
-```bash
 
 npm install all-calculation
