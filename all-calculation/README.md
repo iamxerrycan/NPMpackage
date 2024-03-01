@@ -15,7 +15,9 @@ A simple npm package for various calculations.
 
 
 ## Auther 
-![Sample Image](https://github.com/iamxerrycan/NPMpackage/blob/main/all-calculation/sample.png)
+<!-- ![Sample Image](https://github.com/iamxerrycan/NPMpackage/blob/main/all-calculation/sample.png) -->
+<img src="./images/sample.png" alt="Sample Image" width="300" height="200">
+
 
 
 [@iamxerrycan](https://github.com/iamxerrycan)

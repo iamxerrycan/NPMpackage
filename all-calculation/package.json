@@ -1,11 +1,12 @@
 {
   "name": "all-calculation",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "\"npm package\"",
   "main": "index.js",
   "files": [
     "images",
     "package.json",
+    "index.js",
     "README.md"
   ],
   "type": "module",
