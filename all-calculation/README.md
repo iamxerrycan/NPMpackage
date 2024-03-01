@@ -16,7 +16,7 @@ A simple npm package for various calculations.
 
 ## Auther 
 
-<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/ColourEye/sample.jpg" alt="Sample Image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
+<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/sample.jpg" alt="Sample Image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
 
 [@iamxerrycan](https://github.com/iamxerrycan)
 
