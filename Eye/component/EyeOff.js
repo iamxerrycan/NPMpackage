@@ -1,7 +1,7 @@
 import React from 'react'
-import './ColourEyeOff.css'
+import './EyeOff.css'
 
-const ColourEyeOff = ({color= "grey" , width , height}) => {
+const EyeOff = ({color= "grey" , width , height}) => {
   return (
     <div className="eye-icon" style={{ width, height }}>
         
@@ -42,4 +42,4 @@ const ColourEyeOff = ({color= "grey" , width , height}) => {
   )
 }
 
-export default ColourEyeOff
+export default EyeOff;

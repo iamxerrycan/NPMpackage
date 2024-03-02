@@ -1,10 +1,11 @@
-import './App.css';
-import ColourEyeOff from '../../ColourEye/component/ColourEyeOff';
+import "./App.css";
+import Check from "./component /Check";
+
 
 function App() {
   return (
     <div className="App">
-<ColourEyeOff color='red' width={"40px"} height={"40px"}/>
+     <Check/>
     </div>
   );
 }

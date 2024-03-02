@@ -1,7 +1,7 @@
 import React from "react";
-import "./ColourEye.css";
+import "./Eye.css";
 
-const ColourEye = ({ color = "grey", width, height }) => {
+const  Eye = ({ color = "grey", width, height }) => {
   return (
     <div className="eye-icon" style={{ width, height }}>
       <svg
@@ -36,4 +36,4 @@ const ColourEye = ({ color = "grey", width, height }) => {
   );
 };
 
-export default ColourEye;
+export default Eye;
