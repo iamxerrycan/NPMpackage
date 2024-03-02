@@ -1,0 +1,15 @@
+{
+  "name": "eye-icon",
+  "version": "1.0.10",
+  "description": "eye icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eye",
+    "icon"
+  ],
+  "author": "iamxerrycan",
+  "license": "ISC"
+}

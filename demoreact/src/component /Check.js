@@ -1,10 +1,11 @@
 import React from 'react'
-import { ColourEye, ColourEyeOff } from 'coloureye';
-
+import Eye from 'eye-icon'
+import Button from 'react-npm-button'
 const Check = () => {
   return (
-    <div>
-      <ColourEye/>
+    <div>Check
+     {/* <Button/> */}
+     <Eye/>
     </div>
   )
 }

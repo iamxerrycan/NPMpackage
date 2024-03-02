@@ -1,6 +1,6 @@
 {
   "name": "react-npm-button",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React Button",
   "main": "index.js",
   "type": "module",
