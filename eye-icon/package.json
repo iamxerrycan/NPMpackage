@@ -1,15 +1,21 @@
 {
   "name": "eye-icon",
-  "version": "1.0.10",
-  "description": "eye icon",
+  "version": "1.0.12",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./node_modules/.bin/babel src --out-file index.js"
   },
-  "keywords": [
-    "eye",
-    "icon"
-  ],
+  "keywords": ["eye icon" ,"eye"],
   "author": "iamxerrycan",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }

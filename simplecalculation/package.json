@@ -1,10 +1,9 @@
 {
-  "name": "all-calculation",
-  "version": "1.1.0",
-  "description": "\"npm package\"",
+  "name": "@iamxerrycan/simplecalculation",
+  "version": "1.0.0",
+  "description": "simple calculation",
   "main": "index.js",
   "files": [
-    "images",
     "package.json",
     "index.js",
     "README.md"
@@ -22,14 +21,29 @@
       "name": "Contributor Name",
       "url": "https://www.linkedin.com/in/iamxerrycan/"
     }
-    
   ],
-    
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "simple",
+    "calculation",
+    "npm",
+    "iamxerrycan",
+    "package",
+    "all-calculation",
+    "allcalculation",
+    "calculation",
+    "arithmetic",
+    "statistics",
+    "mathematics",
+    "utility",
+    "developer tools",
+    "node",
+    "library",
+    "javascript",
+    "math functions"
+  ],
   "author": "iamxerrycan",
-  "license": "ISC",
-  "keywords": ["npm" ,"iamxerrycan", "package" ,"all-calculation" , "allcalculation", "calculation", "arithmetic" , "statistics" , "mathematics", "utility", "developer tools", "node", "library", "javascript", "math functions"]
-  
+  "license": "MIT"
 }

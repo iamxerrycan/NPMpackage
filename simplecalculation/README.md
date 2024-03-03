@@ -2,8 +2,8 @@
 
 ALL CALCULATION 
 
-[![npm version](https://badge.fury.io/js/all-calculation.svg)](https://www.npmjs.com/package/all-calculation)
-[![Downloads](https://img.shields.io/npm/dt/all-calculation.svg)](https://www.npmjs.com/package/all-calculation)
+[![npm version](https://badge.fury.io/js/simple-calculation.svg)](https://www.npmjs.com/package/simple-calculation)
+[![Downloads](https://img.shields.io/npm/dt/simple-calculation.svg)](https://www.npmjs.com/package/simple-calculation)
 
 
 A simple npm package for various calculations.
@@ -11,7 +11,7 @@ A simple npm package for various calculations.
 
 ## GitHub Repository
 
-[GitHub Repository](https://github.com/iamxerrycan/all-calculation)
+[GitHub Repository](https://github.com/iamxerrycan/simple-calculation)
 
 
 ## Auther 
@@ -26,7 +26,7 @@ The "all-calculation" package provides a set of functions for common calculation
 
 ## import 
 
-import { ReverseString } from "all-calculation";
+import { ReverseString } from "simple-calculation";
 
 ## use 
 
@@ -36,4 +36,4 @@ console.log(calculateEMI(p, rate ,year));
 
 To install the package, run the following command:
 
-npm install all-calculation
+npm install simplecalculation

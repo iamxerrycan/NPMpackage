@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './EyeOff.css'
 
 const EyeOff = ({color= "grey" , width , height}) => {

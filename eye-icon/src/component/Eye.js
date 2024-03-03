@@ -1,4 +1,5 @@
-import React from "react";
+import * as React from "react"
+
 import "./Eye.css";
 
 const  Eye = ({ color = "grey", width, height }) => {
