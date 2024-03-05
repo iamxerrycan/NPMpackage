@@ -18,7 +18,9 @@ ALL CALCULATION
 **iamxerrycan**
 
 [linkdin](https://www.linkedin.com/in/iamxerrycan/)
+
 [instagram](https://www.instagram.com/rajshishsinghrajput/)
+
 [github](https://github.com/iamxerrycan)
 
 # Description
@@ -42,5 +44,14 @@ import {Eye , EyeOff  } from "dragon-eye";
 
 <p>  <Eye width="" height="" colour=""/ ></p>
 
-<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/dragon-eye/eye.png" alt="Sample Image" width="500" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
+```
+import {Eye , EyeOff} from 'dragon-eye'
+
+#use component
+
+<Eye width="20px" height="20px" colour="Hex , rgb , linear"/>
+
+<EyeOff width="20px" height="20px" colour="Hex , rgb , linear"/>
+```
+/*<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/dragon-eye/eye.png" alt="Sample Image" width="500" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">*/
 
