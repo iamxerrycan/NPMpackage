@@ -2,13 +2,13 @@ import * as React from "react"
 
 import "./Eye.css";
 
-const  Eye = ({ color = "grey", width, height }) => {
+const  Eye = ({ colour = "grey", width, height }) => {
   return (
     <div className="eye-icon" style={{ width, height }}>
       <svg
         viewBox="0 0 24 24"
         fill="none"
-        stroke={color}
+        stroke={colour}
         xmlns="http://www.w3.org/2000/svg"
       >
         {/* <path

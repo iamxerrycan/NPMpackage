@@ -1,17 +1,17 @@
 import React from 'react';
 import './EyeOff.css'
 
-const EyeOff = ({color= "grey" , width , height}) => {
+const EyeOff = ({colour= "grey" , width , height}) => {
   return (
     <div className="eye-icon" style={{ width, height }}>
         
     <svg
       viewBox="0 0 24 24"
       fill="none"
-      stroke={color}
+      stroke={colour}
       xmlns="http://www.w3.org/2000/svg"
     >
-         <line x1="1" y1="1" x2="22" y2="21" stroke={color} strokeWidth="2" />
+         <line x1="1" y1="1" x2="22" y2="21" stroke={colour} strokeWidth="2" />
       {/* <path
         strokeLinecap="round"
         strokeLinejoin="round"
