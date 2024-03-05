@@ -1,6 +1,6 @@
 {
   "name": "dragon-eye",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "dragon-eye",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
@@ -12,9 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 0",
     "build": "vite build"
   },
-  "keywords": [
-    "dragoneye"
-  ],
+  "keywords": ["dragoneye", "eye icon", "password toggle", "react component" , "npmpackage" , "eyeicon" ,"eyeofficon"],
   "author": "iamxerrycan",
   "license": "ISC",
   "devDependencies": {

@@ -2,11 +2,8 @@
 
 ALL CALCULATION 
 
-[![npm version](https://badge.fury.io/js/simple-calculation.svg)](https://www.npmjs.com/package/simple-calculation)
-[![Downloads](https://img.shields.io/npm/dt/simple-calculation.svg)](https://www.npmjs.com/package/simple-calculation)
-
-
-A simple npm package for eye icon like you can use it as password show hide etc , there is two component Eye and EyeOff that takes three params width height and colour ,thats make my package unique because you can costomize size even colour ;
+[![npm version](https://badge.fury.io/js/dragon-eye.svg)](https://www.npmjs.com/package/dragon-eye)
+[![Downloads](https://img.shields.io/npm/dt/dragon-eye.svg)](https://www.npmjs.com/package/dragon-eye)
 
 
 # GitHub Repository
@@ -18,22 +15,32 @@ A simple npm package for eye icon like you can use it as password show hide etc 
 
 <img src="https://github.com/iamxerrycan/NPMpackage/blob/main/sample.jpg" alt="Sample Image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
 
-[@iamxerrycan](https://github.com/iamxerrycan)
+**iamxerrycan**
+
+[linkdin](https://www.linkedin.com/in/iamxerrycan/)
+[instagram](https://www.instagram.com/rajshishsinghrajput/)
+[github](https://github.com/iamxerrycan)
 
 # Description
 
-The "all-calculation" package provides a set of functions for common calculations. It's designed to be easy to use and customizable.
+A simple npm package for eye icon like you can use it as password show hide etc , there is two component Eye and EyeOff that takes three params width height and colour ,thats make my package unique because you can costomize size even colour ;
 
-# import 
+# feature
 
-import { ReverseString } from "simple-calculation";
-
-# use 
-
-console.log(calculateEMI(p, rate ,year));
+Password visibility toggle with the Eye and EyeOff components.
+Customizable size and color for a personalized user experience.
 
 # Installation
 
-To install the package, run the following command:
+npm install dragon-eye 
 
-npm install simplecalculation
+# import 
+
+import {Eye , EyeOff  } from "dragon-eye";
+
+# use 
+
+<p>  <Eye width="" height="" colour=""/ ></p>
+
+<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/dragon-eye/eye.png" alt="Sample Image" width="500" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
+

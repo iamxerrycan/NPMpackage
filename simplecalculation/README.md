@@ -14,11 +14,16 @@ A simple npm package for various calculations.
 [GitHub Repository](https://github.com/iamxerrycan/simple-calculation)
 
 
-## Auther 
+# Auther 
 
 <img src="https://github.com/iamxerrycan/NPMpackage/blob/main/sample.jpg" alt="Sample Image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">
 
-[@iamxerrycan](https://github.com/iamxerrycan)
+**iamxerrycan**
+
+[linkdin](https://www.linkedin.com/in/iamxerrycan/)
+[instagram](https://www.instagram.com/rajshishsinghrajput/)
+[github](https://github.com/iamxerrycan)
+
 
 ## Description
 
