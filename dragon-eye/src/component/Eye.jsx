@@ -2,7 +2,7 @@ import * as React from "react"
 
 import "./Eye.css";
 
-const  Eye = ({ colour = "grey", width, height }) => {
+const  Eye = ({ colour = "grey", width="20px" , height="20px" }) => {
   return (
     <div className="eye-icon" style={{ width, height }}>
       <svg
@@ -23,7 +23,7 @@ const  Eye = ({ colour = "grey", width, height }) => {
           cy="12"
           r={3}
           fill="none"
-          stroke={color}
+          stroke={colour}
           strokeWidth="2"
         />
         <path

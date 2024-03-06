@@ -1,7 +1,7 @@
 import React from 'react';
 import './EyeOff.css'
 
-const EyeOff = ({colour= "grey" , width , height}) => {
+const EyeOff = ({colour= "grey" , width="20px" , height="20px"}) => {
   return (
     <div className="eye-icon" style={{ width, height }}>
         
@@ -24,7 +24,7 @@ const EyeOff = ({colour= "grey" , width , height}) => {
         cy="12"
         r={3}
         fill="none"
-        stroke={color}
+        stroke={colour}
         strokeWidth="2"
       />
       
