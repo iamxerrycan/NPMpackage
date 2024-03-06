@@ -11,7 +11,7 @@ A simple npm package for various calculations.
 
 ## GitHub Repository
 
-[GitHub Repository](https://github.com/iamxerrycan/simple-calculation)
+[GitHub Repository](https://github.com/iamxerrycan/NPMpackage/tree/main/simplecalculation)
 
 
 # Auther 
@@ -21,7 +21,9 @@ A simple npm package for various calculations.
 **iamxerrycan**
 
 [linkdin](https://www.linkedin.com/in/iamxerrycan/)
+
 [instagram](https://www.instagram.com/rajshishsinghrajput/)
+
 [github](https://github.com/iamxerrycan)
 
 
@@ -31,14 +33,11 @@ The "all-calculation" package provides a set of functions for common calculation
 
 ## import 
 
-import { ReverseString } from "simple-calculation";
-
-## use 
-
-console.log(calculateEMI(p, rate ,year));
+import { ReverseString , add , multiply etc } from "simple-calculation";
 
 ## Installation
 
 To install the package, run the following command:
 
 npm install simplecalculation
+
