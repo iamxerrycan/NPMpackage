@@ -1,5 +1,5 @@
 import e from "react";
-const t = () => /* @__PURE__ */ e.createElement("div", { className: "infinite-spinner" }, /* @__PURE__ */ e.createElement("div", { className: "loader" }));
+const t = () => /* @__PURE__ */ e.createElement("div", { class: "loader" });
 export {
-  t as Round
+  t as Classic
 };

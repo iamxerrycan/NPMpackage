@@ -1,4 +1,4 @@
-import Round from './component/Round'
+import Classic from "./component/Classic";
 export {
-    Round
+    Classic,
 }
