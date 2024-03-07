@@ -1,6 +1,4 @@
-# all-calculation
-
-ALL CALCULATION 
+# Simple-Calculation
 
 [![npm version](https://badge.fury.io/js/simple-calculation.svg)](https://www.npmjs.com/package/simple-calculation)
 [![Downloads](https://img.shields.io/npm/dt/simple-calculation.svg)](https://www.npmjs.com/package/simple-calculation)
@@ -32,9 +30,13 @@ A simple npm package for various calculations.
 The "all-calculation" package provides a set of functions for common calculations. It's designed to be easy to use and customizable.
 
 ## import 
+``` 
+import { ReverseString , AddNumber , EMI etc } from "simple-calculation";
 
-import { ReverseString , add , multiply etc } from "simple-calculation";
 
+consol.log(add(2,4))    // it will return 6
+
+```
 ## Installation
 
 To install the package, run the following command:

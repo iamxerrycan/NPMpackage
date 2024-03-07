@@ -1,7 +1,7 @@
 {
-  "name": "dragon-eye",
-  "version": "1.1.8",
-  "description": "dragon-eye",
+  "name": "infinity-loader",
+  "version": "1.0.0",
+  "description": "infinity loader ",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -12,7 +12,9 @@
     "test": "echo \"Error: no test specified\" && exit 0",
     "build": "vite build"
   },
-  "keywords": ["dragoneye", "eye icon", "password toggle", "react component" , "npmpackage" , "eyeicon" ,"eyeofficon"],
+  "keywords": [
+    "loader"
+  ],
   "author": "iamxerrycan",
   "license": "ISC",
   "devDependencies": {

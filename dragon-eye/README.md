@@ -47,9 +47,9 @@ import {Eye , EyeOff} from 'dragon-eye'
 
 #use component
 
-<Eye width="20px" height="20px" colour="Hex , rgb , linear"/>
+<Eye width="20px" height="20px" colour="Hex , rgb "/>
 
-<EyeOff width="20px" height="20px" colour="Hex , rgb , linear"/>
+<EyeOff width="20px" height="20px" colour="Hex , rgb "/>
 
 ```
 *<img src="https://github.com/iamxerrycan/NPMpackage/blob/main/dragon-eye/eye.png" alt="Sample Image" width="500" height="300" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);">*

@@ -1,18 +1,16 @@
 // basic math calculation
 
-export const Add = (a, b) => {
-  return a + b;
-};
+export const AddNumbers = (...numbers) => {
+  
+  return numbers.reduce((sum, number) => sum + number, 0);
+}; 
 
-export const Multiply = (a, b) => {
-  return a * b;
-};
+export const SubstractNumber = (...number)=>{
+  return number.reduce((sum, number) => sum - number, 0);
+}
 
-export const Substract = (a, b) => {
-  return a - b;
-};
 
-export const Divide = (a, b) => {
+export const DivideNumber = (a, b) => {
   if (b > 0) {
     return a / b;
   } else {
@@ -20,7 +18,7 @@ export const Divide = (a, b) => {
   }
 };
 
-export const squareRoot = (a) =>
+export const SquareRoot = (a) =>
   a >= 0 ? Math.sqrt(a) : "Cannot calculate square root of a negative number";
 
 export const factorial = (n) => {
@@ -45,24 +43,23 @@ export const ReverseString = (str) => {
   return revstr;
 };
 
-export const calculateEMI = (p, rate, year) => {
-  const monthlyInterestRate = rate / 12 / 100;
-  const numberOfPayments = year * 12;
+export const calculateEMI = (p, t, r) => {
+  const monthlyInterestRate = r / 12 / 100;
+  const numberOfPayments = t * 12;
 
   const emi = (p * monthlyInterestRate) / (1 - Math.pow(1 + monthlyInterestRate, -numberOfPayments));
 
   return emi.toFixed(2); // Round to 2 decimal places
 };
 
-console.log(calculateEMI(p, rate ,year));
-
+console.log(calculateEMI(p, t, r));
 
 export function fahrenheitToCelsius(fahrenheit) {
   return (fahrenheit - 32) * 5 / 9;
 }
 
 // Celsius to Fahrenheit
-export function celsiusToFahrenheit(celsius) {
+export function CelsiusToFahrenheit(celsius) {
   return (celsius * 9 / 5) + 32;
 }
 
